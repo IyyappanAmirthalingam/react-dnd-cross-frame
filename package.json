@@ -50,6 +50,8 @@
   },
   "dependencies": {
     "react": "^0.14.0",
+    "react-dnd": "^2.0.2",
+    "react-dnd-html5-backend": "github:akorchev/react-dnd-html5-backend",
     "react-dom": "^0.14.0"
   }
 }
